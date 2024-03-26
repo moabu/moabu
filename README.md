@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 ### Stats
 
-![My github stats]()
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=moabu&show_icons=true&theme=dark&hide=stars&custom_title=GitHub%20Stats&count_private=true" style="width: 50%; height: auto;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moabu&layout=compact&theme=dark" style="width: 50%; height: auto;"/>
